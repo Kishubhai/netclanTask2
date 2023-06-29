@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RefineFinal</string>
+    <string-array name="Availability">
+        <item>Available | Hey let Us Connect</item>
+        <item>Away | Stay Discreet and Watch</item>
+        <item>Busy | Do not Disturb | Will Catch Up Later</item>
+        <item>SOS | Emergency! Need Assistance! HELP</item>
+
+    </string-array>
+</resources>
